@@ -1,0 +1,10 @@
+índice.html
+índice.tsx
+manifiesto.json
+sw.js(Nuevo: Service Worker para que funcione sin internet).echo "# Voz.Ia" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer commit" 
+git branch -M main 
+git remote add origin https://github.com/sebav433-dot/Voz.Ia.git
+ git push -u origin main
